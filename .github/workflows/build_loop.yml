@@ -225,11 +225,10 @@ jobs:
           #2hlollipop \
           meal_days \
           #meal_week \
-          profiles \
+          profiles
           #basal_lock \
           #negative_insulin \
           #remote_window \
-          food_search
 
           # the final customization listed above CANNOT have a continuation character
           # more customizations can be pasted after this line
